@@ -1,0 +1,263 @@
+
+body {
+  
+    background-image: url("img2.jpg");
+    background-size: cover;
+ 
+}
+h1 {
+  font-size:100px;
+  text-align: center;
+  }
+      
+
+.Registrationnumber{
+  font-size: x-large;
+  padding-left: 3rem;
+}
+.Registrationnumber input[type=text]{
+  width:9.5%
+}
+
+
+.Name{
+  font-size: x-large;
+  padding-left: 3rem;
+}
+.Name input[type=text]{
+  width:24.6%
+}
+
+.Phonenumber{
+  font-size: x-large;
+  padding-left: 3rem;
+}
+.Phonenumber input[type=text]{
+  width:16%
+}
+
+.Age{
+  font-size: x-large;
+  padding-left: 3rem;
+}
+.Age input[type=text]{
+  width:26.6%;
+}
+
+.Education{
+  font-size: x-large;
+  padding-left: 3rem;
+}
+.Education input[type=text]{
+  width:20.8%;
+}
+
+.Experience{
+  font-size: x-large;
+  padding-left: 3rem;
+}
+.Experience input[type=text]{
+  width:19.2%;
+}
+
+.Address{
+  font-size: x-large;
+  padding-left: 3rem;
+}
+.Address input[type=text]{
+  width:22.5%;
+}
+
+.VAddress{
+  font-size: x-large;
+  padding-left: 3rem;
+}
+.VAddress input[type=text]{
+  width:15.4%;
+}
+.img{
+  font-size: x-large;
+  padding-left: 3rem;
+}
+
+.Gender{
+  position: absolute;
+  top:20rem;
+  right:25rem;
+  
+  
+}
+
+
+.doc{
+  position: absolute;
+  top:22rem;
+  right:20.7rem;
+}
+
+.Rationcard{
+  position: absolute;
+  top:26rem;
+  right:30.4rem;
+}
+
+.Pancard{
+  position: absolute;
+  top:26rem;
+  right:15.4rem;
+  
+}
+
+.Adharcard{
+  position: absolute;
+  top:29rem;
+  right:30.4rem;
+}
+
+.Electioncard{
+  position: absolute;
+  top:29rem;
+  right:15.4rem;
+}
+
+.Electricbill{
+  position: absolute;
+  top:32rem;
+  right:30.4rem;
+
+}
+
+.Passport{
+  position: absolute;
+  top:32rem;
+  right:15.4rem;
+
+}
+
+.Agreement{
+  position: absolute;
+  top:35rem;
+  right:30.4rem;
+
+}
+.work{
+  position: absolute;
+  top:40rem;
+  right:25.7rem;
+}
+
+.Patientcare{
+  position: absolute;
+  top:44rem;
+  right:30.4rem;
+}
+
+.Elderlycare{
+  position: absolute;
+  top:44rem;
+  right:15.4rem;
+}
+
+.Parttime{
+  position: absolute;
+  top:47rem;
+  right:30.4rem;
+}
+
+.Fulltime{
+  position: absolute;
+  top:47rem;
+  right:15.4rem;
+}
+
+.EHRS{
+  position: absolute;
+  top:50rem;
+  right:30.4rem;
+}
+
+
+.THRS{
+  position: absolute;
+  top:50rem;
+  right:15.4rem;
+}
+
+
+.TFHRS{
+  position: absolute;
+  top:53rem;
+  right:30.4rem;
+}
+
+.Babycare{
+  position: absolute;
+  top:56rem;
+  right:30.4rem;
+}
+
+.Babymasage{
+  position: absolute;
+  top:56rem;
+  right:15.4rem;
+} 
+
+.Matheranmasage{
+  position: absolute;
+  top:59rem;
+  right:30.4rem;
+}
+.Maid{
+  position: absolute;
+  top:59rem;
+  right:15.4rem;
+}
+.Cook{
+  position: absolute;
+  top:62rem;
+  right:30.4rem;
+}
+.RT{
+  position: absolute;
+  top:62rem;
+  right:15.4rem;
+}
+.BP{
+  position: absolute;
+  top:65rem;
+  right:30.4rem;
+}
+.Insulin{
+  position: absolute;
+  top:65rem;
+  right:15.4rem;
+}
+
+.img{
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.submit{
+  padding-top: 10rem;
+  text-align: center;
+  width:35rem;
+  padding-left: 23rem;
+  padding-bottom: 10rem;
+}
+
+.submit input[type=submit] {
+  
+  width: 90%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 10px;
+  margin: 4px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+    
+input[type=submit]:hover {
+  background-color: #45a049;
+}
